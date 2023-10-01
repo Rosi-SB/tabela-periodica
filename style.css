@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;      
+}
+table{
+    padding-left: 20px;
+}
+td {
+    min-width: 70px;
+    min-height: 70px;
+    width: 70px;
+    height: 70px;
+
+    position: relative;
+}
+h4{
+    font-size: 0.9rem;
+    padding: 0.1rem;
+}
+h5{
+    padding: 3px;
+    text-align: right;
+}
+.laranja{
+    border-style: solid;
+    background-color:rgba(255, 166, 0, 0.847);
+}
+.azulcla{
+    border-style: solid;
+    background-color: rgba(0, 140, 255, 0.771);
+}
+.azulesc{
+    border-style: solid;
+    background-color: rgba(3, 3, 163, 0.729);
+}
+.azulon{
+    border-style: solid;
+    background-color: rgba(0, 204, 255, 0.581);
+}
+.rosa{
+    border-style: solid;
+    background-color: rgba(228, 58, 86, 0.703);
+}
+.verde{
+    border-style: solid;
+    background-color: rgba(13, 185, 13, 0.814);
+}
+.petroleo{
+    border-style: solid;
+    background-color: rgba(165, 128, 42, 0.792);
+}
+.amarelo{
+    border-style: solid;
+    background-color: rgba(255, 255, 0, 0.678);
+}
+.roxo{
+    border-style: solid;
+    background-color: rgba(81, 0, 128, 0.401);
+}
+.roxocla{
+    border-style: solid;
+    background-color: rgba(236, 23, 236, 0.659);
+}
